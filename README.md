@@ -7,7 +7,7 @@ I process some databases and would like to share with you (if you need).
 
 # GTEx eQTL full statistics of 48 tissues
 Download of [GTEx eQTL full statistics](https://www.gtexportal.org/home/datasets) is chargeable.  
-So I download BESD files from [GCTA](https://yanglab.westlake.edu.cn/data/SMR/GTEx_V8_cis_eqtl_summary.html), and convert them to txt files, for saving money. 
+So I download BESD files from [GCTA](https://yanglab.westlake.edu.cn/data/SMR/GTEx_V8_cis_eqtl_summary.html), and convert them to txt files, for saving money.  
 They look like:
 ```
 SNP           Chr   BP      A1      A2      Freq    Probe    Probe_Chr  Probe_bp  Gene  Orientation     b         SE         p
@@ -20,7 +20,7 @@ Note that they are in hg19
 
 # BBJ GWAS
 [BBJ GWAS](http://jenger.riken.jp/en/result) are from different papers and their format are not in consistency.  
-So I merge then to [1000g EAS ref](https://alkesgroup.broadinstitute.org/LDSCORE/), remove MHC region, and unifiy their format. 
+So I merge then to [1000g EAS ref](https://alkesgroup.broadinstitute.org/LDSCORE/), remove MHC region, and unifiy their format.  
 They look like:
 ```
 CHR   POS   SNP        A1   A2      FRQ                  BETA                   SE                 P                N
