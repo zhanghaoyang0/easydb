@@ -1,9 +1,9 @@
 
 # About easydb
-I share some processed dbs here which I think useful.
+I process some databases and would like to share with you (if you need).
 
 # Getting Started
-`Baidu Netdisk` is enough.
+`Baidu Netdisk (百度云盘)` is enough.
 
 # GTEx eQTL full statistics of 48 tissues
 Download of [GTEx eQTL full statistics](https://www.gtexportal.org/home/datasets) is chargeable.  
@@ -16,7 +16,7 @@ rs201055865   1     14671   C       G       NA   ENSG00000227232 1      14363   
 rs201327123   1     14677   A       G       NA   ENSG00000227232 1      14363     WASH7P    -       -0.0541866   0.287179   0.850339
 ``` 
 Note that they are in hg19  
-[Baidu Netdisk link](https://pan.baidu.com/s/1Q9z7RV4jNdGOshdxOI1uRA?pwd=xvz8)
+[Baidu Netdisk link](https://pan.baidu.com/s/13RvdH_8EUZzyvyWwzojwOw?pwd=5odb)
 
 # BBJ GWAS
 [BBJ GWAS](http://jenger.riken.jp/en/result) are from different papers and their format are not in consistency.  
@@ -29,8 +29,7 @@ CHR   POS   SNP        A1   A2      FRQ                  BETA                   
 1   752566  rs3094315  A  G   0.842458665370941 0.044740991635669   0.0244692517100391   0.0674808889339898   202308
 ``` 
 Note that they are in hg19  
-[Baidu Netdisk link](https://yanglab.westlake.edu.cn/data/SMR/GTEx_V8_cis_eqtl_summary.html)
-
+[Baidu Netdisk link](https://pan.baidu.com/s/1zi7AYKaD4rwYqrWgE9ri8Q?pwd=3hfp)
 
 # Gene range
 Some times I want to check the range of a gene.  
@@ -44,7 +43,7 @@ chr,start,end,gene_id,gene_type,gene_name,level
 1,34554,36081,ENSG00000237613.2_6,lncRNA,FAM138A,2
 ```
 Note that `gencode.v40_gene.csv` is hg38, `gencode.v41lift37_gene.csv` is hg 19  
-[Baidu Netdisk link](https://pan.baidu.com/s/13RvdH_8EUZzyvyWwzojwOw?pwd=5odb)
+[Baidu Netdisk link](https://pan.baidu.com/s/1Q9z7RV4jNdGOshdxOI1uRA?pwd=xvz8)
 
 # Feedback and comments
-Add an issue or send email to zhanghaoyang0@hotmail.com
+Add an issue or mail to zhanghaoyang0@hotmail.com
