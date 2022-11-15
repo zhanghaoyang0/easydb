@@ -16,7 +16,7 @@ rs201055865   1     14671   C       G       NA   ENSG00000227232 1      14363   
 rs201327123   1     14677   A       G       NA   ENSG00000227232 1      14363     WASH7P    -       -0.0541866   0.287179   0.850339
 ``` 
 Note that they are in hg19  
-[Baidu Netdisk link](https://pan.baidu.com/s/13RvdH_8EUZzyvyWwzojwOw?pwd=5odb)
+[Baidu Netdisk link](https://pan.baidu.com/s/1Idl-SRUTuMBmXyHnVGdr5w?pwd=vrv4)
 
 # BBJ GWAS
 [BBJ GWAS](http://jenger.riken.jp/en/result) are from different papers and their format are not in consistency.  
