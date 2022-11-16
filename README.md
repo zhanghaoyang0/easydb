@@ -5,7 +5,7 @@ I process some databases and would like to share with you (if you need).
 # Getting Started
 `Baidu Netdisk (百度云盘)` is enough.
 
-# GTEx eQTL full statistics of 48 tissues
+# GTEx eQTL full statistics of 49 tissues
 Download of [GTEx eQTL full statistics](https://www.gtexportal.org/home/datasets) is chargeable.  
 So I download BESD files from [GCTA](https://yanglab.westlake.edu.cn/data/SMR/GTEx_V8_cis_eqtl_summary.html), and convert them to txt files, for saving money.  
 They look like:
@@ -16,7 +16,7 @@ rs201055865   1     14671   C       G       NA   ENSG00000227232 1      14363   
 rs201327123   1     14677   A       G       NA   ENSG00000227232 1      14363     WASH7P    -       -0.0541866   0.287179   0.850339
 ``` 
 Note that they are in hg19  
-[Baidu Netdisk link](https://pan.baidu.com/s/1Idl-SRUTuMBmXyHnVGdr5w?pwd=vrv4)
+[Baidu Netdisk link](https://pan.baidu.com/s/1lKNmmA_VknMX2BGaDZ7rTw?pwd=g5hh)
 
 # BBJ GWAS
 [BBJ GWAS](http://jenger.riken.jp/en/result) are from different papers and their format are not in consistency.  
