@@ -10,13 +10,14 @@ Download of [GTEx eQTL full statistics](https://www.gtexportal.org/home/datasets
 So I download BESD files from [GCTA](https://yanglab.westlake.edu.cn/data/SMR/GTEx_V8_cis_eqtl_summary.html), and convert them to txt files, for saving money.  
 They look like:
 ```
-SNP           Chr   BP      A1      A2      Freq    Probe    Probe_Chr  Probe_bp  Gene  Orientation     b         SE         p
-rs554008981   1     13550   A       G       NA   ENSG00000227232 1      14363     WASH7P    -        0.580378   0.359124   0.106074
-rs201055865   1     14671   C       G       NA   ENSG00000227232 1      14363     WASH7P    -       -0.480434   0.442039   0.277099
-rs201327123   1     14677   A       G       NA   ENSG00000227232 1      14363     WASH7P    -       -0.0541866   0.287179   0.850339
+SNP     Chr     BP      A1      A2      Gene    b       SE      p
+rs554008981     1       13550   A       G       WASH7P  0.0587242       0.172917        0.734151
+rs201055865     1       14671   C       G       WASH7P  -0.0282343      0.181646        0.876478
+rs201327123     1       14677   A       G       WASH7P  -0.185212       0.0939647       0.0487147
+rs62636368      1       16841   T       G       WASH7P  -0.104565       0.104422        0.316647
 ``` 
 Note that they are in hg19  
-[Baidu Netdisk link](https://pan.baidu.com/s/1lKNmmA_VknMX2BGaDZ7rTw?pwd=g5hh)
+[Baidu Netdisk link](https://pan.baidu.com/s/1JM5qCwJojQOxJH6C9c_P7A?pwd=cyhg)
 
 # BBJ GWAS
 [BBJ GWAS](http://jenger.riken.jp/en/result) are from different papers and their format are not in consistency.  
