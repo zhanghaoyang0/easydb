@@ -17,7 +17,7 @@ rs201327123     1       14677   A       G       WASH7P  -0.185212       0.093964
 rs62636368      1       16841   T       G       WASH7P  -0.104565       0.104422        0.316647
 ``` 
 Note that they are in hg19  
-[Baidu Netdisk link](https://pan.baidu.com/s/1JM5qCwJojQOxJH6C9c_P7A?pwd=cyhg)
+[Baidu Netdisk link](https://pan.baidu.com/s/1HV6k_YBIEHeS_riD8vhRug?pwd=8ysp )
 
 # BBJ GWAS
 [BBJ GWAS](http://jenger.riken.jp/en/result) are from different papers and their format are not in consistency.  
@@ -30,7 +30,7 @@ CHR   POS   SNP        A1   A2      FRQ                  BETA                   
 1   752566  rs3094315  A  G   0.842458665370941 0.044740991635669   0.0244692517100391   0.0674808889339898   202308
 ``` 
 Note that they are in hg19  
-[Baidu Netdisk link](https://pan.baidu.com/s/1zi7AYKaD4rwYqrWgE9ri8Q?pwd=3hfp)
+[Baidu Netdisk link](https://pan.baidu.com/s/1jmPccVA4Ji7YLKmx-2t_DQ?pwd=bgiy)
 
 # Gene range
 Some times I want to check the range of a gene.  
@@ -44,7 +44,7 @@ chr,start,end,gene_id,gene_type,gene_name,level
 1,34554,36081,ENSG00000237613.2_6,lncRNA,FAM138A,2
 ```
 Note that `gencode.v40_gene.csv` is hg38, `gencode.v41lift37_gene.csv` is hg 19  
-[Baidu Netdisk link](https://pan.baidu.com/s/1Q9z7RV4jNdGOshdxOI1uRA?pwd=xvz8)
+[Baidu Netdisk link](https://pan.baidu.com/s/1Uff6RkodJutqveI6vZOZRA?pwd=rzgy)
 
 # Feedback and comments
 Add an issue or mail to zhanghaoyang0@hotmail.com
